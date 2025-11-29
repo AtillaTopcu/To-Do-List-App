@@ -1,9 +1,11 @@
-Modern To-Do List App is a simple yet elegant task manager built entirely with vanilla JavaScript, HTML, and CSS.
+A clean and user-friendly To-Do List web application built with pure HTML, CSS, and Vanilla JavaScript.
+Designed to demonstrate fundamental front-end skills such as DOM manipulation, event handling, and persistent state management using localStorage.
 
 It allows users to:
 - Create, edit, and delete tasks
 - Assign categories (Personal, Work, Other)
 - Add optional descriptions and due dates
+- Persistent storage using localStorage
 
 The design focuses on usability and simplicity - no frameworks, just clean, modern front-end code.
 
@@ -11,11 +13,12 @@ The design focuses on usability and simplicity - no frameworks, just clean, mode
 - HTML5
 - CSS3
 - JavaScript
+- localStorage API
 
 🚀 Future Improvements
-- Save tasks to localStorage
-- Add "Completed" status toggle
+- Task completion status (Done / Not Done)
 - Filter tasks by category
+- Drag & drop task reordering
 - Dark mode support
 
 🖼️ Preview
